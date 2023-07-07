@@ -1,4 +1,4 @@
-# MOR
+# MOR WAFER-LIKE STRUCTURE 9IN-5OUT
 Model Order Reduction
 
 Youn need the ToolBox sssMOR for Matlab
