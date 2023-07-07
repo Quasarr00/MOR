@@ -12,7 +12,7 @@ Thanks to everyone who worked on the development of the sssMor Toolbox for Matla
 WAFER LIKE STRUCTURE, 9 INPUTS OF POWER [W] PLACED ON THE WAFER, 5 OUTPUT POINT PROBES MESURING THE 
 TEMPERATURE OF THE WAFER.
 
-1 - Disc(9in5out).mph = COMSOL file
+1 - Disc(9in5out).mph = COMSOL file\n/n
 2 - Disc9_in5out.m = MATLAB file that solves the COMSOL model
 3 - matrices.mat = file containing the state-space matrices of the COMSOL model extracted with 
     MATLAB
