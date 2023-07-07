@@ -21,6 +21,9 @@ TEMPERATURE OF THE WAFER.
     
 4 - sysSolver.m = MATLAB function to solve state-space systems
 
+    x(dot)(t) = A*x(t) + B*u(t)
+    y(t) = C*x(t) + D*u(t)
+
 5 - Disc_9in5out_SYS.m = main file to solve the model and the reduced model
 
 
